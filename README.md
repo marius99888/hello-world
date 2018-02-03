@@ -1,5 +1,5 @@
 # hello-world
 
 Hello everybody,
-i just stated learning HTML, CSS and JavaScript.
-i hope to get a nice project started soon.
+I just stated learning HTML, CSS and JavaScript.
+I hope to get a nice project started soon.
